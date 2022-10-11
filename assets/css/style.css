@@ -8,6 +8,23 @@ body {
   font-family: "Roboto", sans-serif;
   background-color: yellow;
 }
+ body#singup{
+  background-color:	#ff8c00;
+  text-align: center;
+  
+}
+body#singup .span{
+background-color:  rgb(249, 246, 243);
+}
+body#singup .h1{
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+body#singin{
+  background-color:rgb(127,2545,0);
+  text-align: center;
+}
 
 .header {
   background-color: yellow;
@@ -25,6 +42,13 @@ a {
   font-size: 25px;
   font-family: serif;
 }
+
+a:nth-child(4),
+a:nth-child(5) {
+  border: 1px solid #000;
+  padding: 5px;
+}
+
 section.section {
   display: flex;
   padding-top: 70px;
@@ -44,8 +68,3 @@ section .right-side img {
   border-radius: 25px;
   box-shadow: 4px 15px 25px rgba(0, 0, 0, 0.7);
 }
-
-
-
-
-
