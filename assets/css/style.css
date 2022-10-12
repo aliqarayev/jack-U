@@ -8,24 +8,23 @@ body {
   font-family: "Roboto", sans-serif;
   background-color: yellow;
 }
- body#singup{
-  background-color:	#ff8c00;
-  text-align: center;
+body#singup {
+  background-color: #ff8c00;
   
 }
-body#singup .span{
+body#singup .span {
   font-weight: bold;
-
 }
-body#singup .h1{
+body#singup .h1 {
   color: rgb(255, 255, 255);
-  text-align: center;
+ 
 }
 
-body#singin{
-  background-color:rgb(127,2545,0);
-  text-align: center;
+body#singin {
+  background-color: rgb(127, 2545, 0);
+ 
 }
+
 
 .header {
   background-color: yellow;
